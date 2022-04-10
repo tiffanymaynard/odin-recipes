@@ -1,9 +1,7 @@
 # odin-recipes
-Making a recipe site
-Could be fun anniversary gift to Alex!
+Building a recipe site
 
-Ideas: 
-Chana Masala
-Desserts
-Anything we make!
-Add photos
+Skills: 
+  applying all steps 
+  commit
+ 
